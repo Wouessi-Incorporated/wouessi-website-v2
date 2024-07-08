@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/frontend-react-wouessi-website-v2/Home/static/css/main.63d94db7.css",
-    "main.js": "/frontend-react-wouessi-website-v2/Home/static/js/main.42513d68.js",
-    "static/js/453.0f6353dc.chunk.js": "/frontend-react-wouessi-website-v2/Home/static/js/453.0f6353dc.chunk.js",
-    "static/media/about-page-hero-image.jpeg": "/frontend-react-wouessi-website-v2/Home/static/media/about-page-hero-image.1a9084eefdab6a181f7c.jpeg",
-    "static/media/homepage-hero-image.png": "/frontend-react-wouessi-website-v2/Home/static/media/homepage-hero-image.f89a5f34d39e2c234c53.png",
-    "static/media/recent-proj-backdrop.png": "/frontend-react-wouessi-website-v2/Home/static/media/recent-proj-backdrop.df2b8a187ef4aae8e11c.png",
-    "static/media/right-side-image-portfolio.png": "/frontend-react-wouessi-website-v2/Home/static/media/right-side-image-portfolio.2031505a690106678617.png",
-    "static/media/WhyChooseUsBackground.png": "/frontend-react-wouessi-website-v2/Home/static/media/WhyChooseUsBackground.422ff9abcc253b43388e.png",
-    "static/media/left-side-image-portfolio.jpeg": "/frontend-react-wouessi-website-v2/Home/static/media/left-side-image-portfolio.5f6b5abc43da2468b8ee.jpeg",
-    "static/media/ASDICLogo.svg": "/frontend-react-wouessi-website-v2/Home/static/media/ASDICLogo.0124882463ad69e65dc3be07158527cd.svg",
-    "static/media/CADRLogo.svg": "/frontend-react-wouessi-website-v2/Home/static/media/CADRLogo.cc3ef769cf9aea22fb7973d980a3d8f0.svg",
-    "static/media/HartnamtemahLogo.svg": "/frontend-react-wouessi-website-v2/Home/static/media/HartnamtemahLogo.81490c9a9aec5c929209406f40e69c78.svg",
-    "static/media/AfroTechTalkLogo.svg": "/frontend-react-wouessi-website-v2/Home/static/media/AfroTechTalkLogo.4161851e86f87a51564bd2a687481d0c.svg",
-    "static/media/logo.svg": "/frontend-react-wouessi-website-v2/Home/static/media/logo.f38e4d2a9644598ed3a91f1f05377739.svg",
-    "static/media/FooterWouessiLogo.svg": "/frontend-react-wouessi-website-v2/Home/static/media/FooterWouessiLogo.bef86ab6830b509092bf51eb4e4ec1be.svg",
-    "static/media/KigaliRunningClub.svg": "/frontend-react-wouessi-website-v2/Home/static/media/KigaliRunningClub.2e37a58dc15910a5c45dde05ef14bb20.svg",
-    "index.html": "/frontend-react-wouessi-website-v2/Home/index.html",
-    "static/media/QuoteIcon.svg": "/frontend-react-wouessi-website-v2/Home/static/media/QuoteIcon.779912c0adf5f3938233eac3de756447.svg",
-    "main.63d94db7.css.map": "/frontend-react-wouessi-website-v2/Home/static/css/main.63d94db7.css.map",
-    "main.42513d68.js.map": "/frontend-react-wouessi-website-v2/Home/static/js/main.42513d68.js.map",
-    "453.0f6353dc.chunk.js.map": "/frontend-react-wouessi-website-v2/Home/static/js/453.0f6353dc.chunk.js.map"
+    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.103de659.css",
+    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.a9488b25.js",
+    "static/js/453.0f6353dc.chunk.js": "/frontend-react-wouessi-website-v2/static/js/453.0f6353dc.chunk.js",
+    "static/media/about-page-hero-image.jpeg": "/frontend-react-wouessi-website-v2/static/media/about-page-hero-image.1a9084eefdab6a181f7c.jpeg",
+    "static/media/homepage-hero-image.png": "/frontend-react-wouessi-website-v2/static/media/homepage-hero-image.f89a5f34d39e2c234c53.png",
+    "static/media/recent-proj-backdrop.png": "/frontend-react-wouessi-website-v2/static/media/recent-proj-backdrop.df2b8a187ef4aae8e11c.png",
+    "static/media/right-side-image-portfolio.png": "/frontend-react-wouessi-website-v2/static/media/right-side-image-portfolio.2031505a690106678617.png",
+    "static/media/WhyChooseUsBackground.png": "/frontend-react-wouessi-website-v2/static/media/WhyChooseUsBackground.422ff9abcc253b43388e.png",
+    "static/media/left-side-image-portfolio.jpeg": "/frontend-react-wouessi-website-v2/static/media/left-side-image-portfolio.5f6b5abc43da2468b8ee.jpeg",
+    "static/media/ASDICLogo.svg": "/frontend-react-wouessi-website-v2/static/media/ASDICLogo.0124882463ad69e65dc3be07158527cd.svg",
+    "static/media/CADRLogo.svg": "/frontend-react-wouessi-website-v2/static/media/CADRLogo.cc3ef769cf9aea22fb7973d980a3d8f0.svg",
+    "static/media/HartnamtemahLogo.svg": "/frontend-react-wouessi-website-v2/static/media/HartnamtemahLogo.81490c9a9aec5c929209406f40e69c78.svg",
+    "static/media/AfroTechTalkLogo.svg": "/frontend-react-wouessi-website-v2/static/media/AfroTechTalkLogo.4161851e86f87a51564bd2a687481d0c.svg",
+    "static/media/logo.svg": "/frontend-react-wouessi-website-v2/static/media/logo.f38e4d2a9644598ed3a91f1f05377739.svg",
+    "static/media/FooterWouessiLogo.svg": "/frontend-react-wouessi-website-v2/static/media/FooterWouessiLogo.bef86ab6830b509092bf51eb4e4ec1be.svg",
+    "static/media/KigaliRunningClub.svg": "/frontend-react-wouessi-website-v2/static/media/KigaliRunningClub.2e37a58dc15910a5c45dde05ef14bb20.svg",
+    "index.html": "/frontend-react-wouessi-website-v2/index.html",
+    "static/media/QuoteIcon.svg": "/frontend-react-wouessi-website-v2/static/media/QuoteIcon.779912c0adf5f3938233eac3de756447.svg",
+    "main.103de659.css.map": "/frontend-react-wouessi-website-v2/static/css/main.103de659.css.map",
+    "main.a9488b25.js.map": "/frontend-react-wouessi-website-v2/static/js/main.a9488b25.js.map",
+    "453.0f6353dc.chunk.js.map": "/frontend-react-wouessi-website-v2/static/js/453.0f6353dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63d94db7.css",
-    "static/js/main.42513d68.js"
+    "static/css/main.103de659.css",
+    "static/js/main.a9488b25.js"
   ]
 }
