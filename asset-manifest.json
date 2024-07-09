@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.103de659.css",
-    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.a9488b25.js",
+    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.3e0013b5.css",
+    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.f6b71c19.js",
     "static/js/453.0f6353dc.chunk.js": "/frontend-react-wouessi-website-v2/static/js/453.0f6353dc.chunk.js",
     "static/media/about-page-hero-image.jpeg": "/frontend-react-wouessi-website-v2/static/media/about-page-hero-image.1a9084eefdab6a181f7c.jpeg",
     "static/media/homepage-hero-image.png": "/frontend-react-wouessi-website-v2/static/media/homepage-hero-image.f89a5f34d39e2c234c53.png",
@@ -18,12 +18,12 @@
     "static/media/KigaliRunningClub.svg": "/frontend-react-wouessi-website-v2/static/media/KigaliRunningClub.2e37a58dc15910a5c45dde05ef14bb20.svg",
     "index.html": "/frontend-react-wouessi-website-v2/index.html",
     "static/media/QuoteIcon.svg": "/frontend-react-wouessi-website-v2/static/media/QuoteIcon.779912c0adf5f3938233eac3de756447.svg",
-    "main.103de659.css.map": "/frontend-react-wouessi-website-v2/static/css/main.103de659.css.map",
-    "main.a9488b25.js.map": "/frontend-react-wouessi-website-v2/static/js/main.a9488b25.js.map",
+    "main.3e0013b5.css.map": "/frontend-react-wouessi-website-v2/static/css/main.3e0013b5.css.map",
+    "main.f6b71c19.js.map": "/frontend-react-wouessi-website-v2/static/js/main.f6b71c19.js.map",
     "453.0f6353dc.chunk.js.map": "/frontend-react-wouessi-website-v2/static/js/453.0f6353dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.103de659.css",
-    "static/js/main.a9488b25.js"
+    "static/css/main.3e0013b5.css",
+    "static/js/main.f6b71c19.js"
   ]
 }
