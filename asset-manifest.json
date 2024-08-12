@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.c730857d.css",
-    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.2cc0e8e2.js",
+    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.0469a590.css",
+    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.6a0723dd.js",
     "static/js/453.0f6353dc.chunk.js": "/frontend-react-wouessi-website-v2/static/js/453.0f6353dc.chunk.js",
     "static/media/ServicesHeroImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/ServicesHeroImage.72d17a4061532a297339.jpeg",
     "static/media/what-we-do-digital-marketing.jpeg": "/frontend-react-wouessi-website-v2/static/media/what-we-do-digital-marketing.4d86dbbb48ef70d96791.jpeg",
@@ -11,12 +11,14 @@
     "static/media/about-page-hero-image.jpeg": "/frontend-react-wouessi-website-v2/static/media/about-page-hero-image.1a9084eefdab6a181f7c.jpeg",
     "static/media/africa-block-chain-slider.png": "/frontend-react-wouessi-website-v2/static/media/africa-block-chain-slider.df2b8a187ef4aae8e11c.png",
     "static/media/AIM-slider.png": "/frontend-react-wouessi-website-v2/static/media/AIM-slider.8a2a3211425b798916fd.png",
+    "static/media/OurMissionSideImage.png": "/frontend-react-wouessi-website-v2/static/media/OurMissionSideImage.c52c34ba790b49c01929.png",
     "static/media/UCB-slider.png": "/frontend-react-wouessi-website-v2/static/media/UCB-slider.b8655d5c8cedef56e271.png",
     "static/media/startupYMM-slider.png": "/frontend-react-wouessi-website-v2/static/media/startupYMM-slider.0e9b27c28fd83144a839.png",
     "static/media/bipoc-foundation-slider.png": "/frontend-react-wouessi-website-v2/static/media/bipoc-foundation-slider.0b25bcb0b733cebe113e.png",
     "static/media/ATR-cybersecurity-slider.png": "/frontend-react-wouessi-website-v2/static/media/ATR-cybersecurity-slider.ba5adcc03780e6438884.png",
     "static/media/precision-sportscar-slider.png": "/frontend-react-wouessi-website-v2/static/media/precision-sportscar-slider.f2bc9d83657b5383d35b.png",
     "static/media/right-side-image-portfolio.png": "/frontend-react-wouessi-website-v2/static/media/right-side-image-portfolio.2031505a690106678617.png",
+    "static/media/OurMissionTopImage.png": "/frontend-react-wouessi-website-v2/static/media/OurMissionTopImage.9830888277d569998a41.png",
     "static/media/WhyChooseUsBackground.png": "/frontend-react-wouessi-website-v2/static/media/WhyChooseUsBackground.422ff9abcc253b43388e.png",
     "static/media/left-side-image-portfolio.jpeg": "/frontend-react-wouessi-website-v2/static/media/left-side-image-portfolio.5f6b5abc43da2468b8ee.jpeg",
     "static/media/homepage-hero-image.png": "/frontend-react-wouessi-website-v2/static/media/homepage-hero-image.4e66fec7e0ff0caf717f.png",
@@ -33,12 +35,12 @@
     "static/media/KigaliRunningClub.svg": "/frontend-react-wouessi-website-v2/static/media/KigaliRunningClub.554d4b6c255ed13fd69baa2b075237e4.svg",
     "index.html": "/frontend-react-wouessi-website-v2/index.html",
     "static/media/QuoteIcon.svg": "/frontend-react-wouessi-website-v2/static/media/QuoteIcon.779912c0adf5f3938233eac3de756447.svg",
-    "main.c730857d.css.map": "/frontend-react-wouessi-website-v2/static/css/main.c730857d.css.map",
-    "main.2cc0e8e2.js.map": "/frontend-react-wouessi-website-v2/static/js/main.2cc0e8e2.js.map",
+    "main.0469a590.css.map": "/frontend-react-wouessi-website-v2/static/css/main.0469a590.css.map",
+    "main.6a0723dd.js.map": "/frontend-react-wouessi-website-v2/static/js/main.6a0723dd.js.map",
     "453.0f6353dc.chunk.js.map": "/frontend-react-wouessi-website-v2/static/js/453.0f6353dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c730857d.css",
-    "static/js/main.2cc0e8e2.js"
+    "static/css/main.0469a590.css",
+    "static/js/main.6a0723dd.js"
   ]
 }
