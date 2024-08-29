@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.4391d7e6.css",
-    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.467a08e0.js",
+    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.e55f2c9d.css",
+    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.a384e8e7.js",
     "static/js/453.cc97cdc3.chunk.js": "/frontend-react-wouessi-website-v2/static/js/453.cc97cdc3.chunk.js",
     "static/media/HomepageAboutUsImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/HomepageAboutUsImage.b1a8a55a5e97883dc80c.jpeg",
     "static/media/ServicesHeroImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/ServicesHeroImage.72d17a4061532a297339.jpeg",
@@ -24,10 +24,10 @@
     "static/media/PortfolioAldeliaImage.png": "/frontend-react-wouessi-website-v2/static/media/PortfolioAldeliaImage.0f312d89aa44ed579124.png",
     "static/media/OurMissionSideImage.png": "/frontend-react-wouessi-website-v2/static/media/OurMissionSideImage.c52c34ba790b49c01929.png",
     "static/media/BantuEdProductImage.png": "/frontend-react-wouessi-website-v2/static/media/BantuEdProductImage.d41147fb5b69b23e46d6.png",
+    "static/media/HomepageRecentProjGIZ.png": "/frontend-react-wouessi-website-v2/static/media/HomepageRecentProjGIZ.7414b21aa8c06c7f4bff.png",
     "static/media/UCB-slider.png": "/frontend-react-wouessi-website-v2/static/media/UCB-slider.b8655d5c8cedef56e271.png",
     "static/media/startupYMM-slider.png": "/frontend-react-wouessi-website-v2/static/media/startupYMM-slider.0e9b27c28fd83144a839.png",
     "static/media/bipoc-foundation-slider.png": "/frontend-react-wouessi-website-v2/static/media/bipoc-foundation-slider.0b25bcb0b733cebe113e.png",
-    "static/media/ATR-cybersecurity-slider.png": "/frontend-react-wouessi-website-v2/static/media/ATR-cybersecurity-slider.ba5adcc03780e6438884.png",
     "static/media/JasmineMHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/JasmineMHeadshot.591fb99d79c68a9f28da.png",
     "static/media/precision-sportscar-slider.png": "/frontend-react-wouessi-website-v2/static/media/precision-sportscar-slider.f2bc9d83657b5383d35b.png",
     "static/media/right-side-image-portfolio.png": "/frontend-react-wouessi-website-v2/static/media/right-side-image-portfolio.2031505a690106678617.png",
@@ -37,7 +37,6 @@
     "static/media/PamelaDefoHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/PamelaDefoHeadshot.125138cac25d67eb6843.png",
     "static/media/RodrigueFouafouHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/RodrigueFouafouHeadshot.a60252d2d6a450ade1b9.png",
     "static/media/ReginaldNugentHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/ReginaldNugentHeadshot.b249de8da9281c977dbe.png",
-    "static/media/egolu-app.png": "/frontend-react-wouessi-website-v2/static/media/egolu-app.aaf52393d357b76ba047.png",
     "static/media/NelsonNwankwoHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/NelsonNwankwoHeadshot.a536e286e8c0c24cbbcb.png",
     "static/media/FannyEneHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/FannyEneHeadshot.bbc248e86296e8ad73a0.png",
     "static/media/StriveMazungaHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/StriveMazungaHeadshot.36884f0e9a208a7597ad.png",
@@ -45,11 +44,19 @@
     "static/media/PortfolioYellowCardImage.png": "/frontend-react-wouessi-website-v2/static/media/PortfolioYellowCardImage.33f585db398e6acf10c5.png",
     "static/media/BillTinglingHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/BillTinglingHeadshot.af708765ff51e75d59be.png",
     "static/media/MarieNsanaHeadshot.png": "/frontend-react-wouessi-website-v2/static/media/MarieNsanaHeadshot.bd78bc74d70dd5fd696f.png",
+    "static/media/bloglist1.png": "/frontend-react-wouessi-website-v2/static/media/bloglist1.db0c8d559a58a7ebe63a.png",
     "static/media/BipocFoundationLogo.svg": "/frontend-react-wouessi-website-v2/static/media/BipocFoundationLogo.39aaf3cdb9f25beddb3b5907f812fc06.svg",
+    "static/media/BlogPost2.png": "/frontend-react-wouessi-website-v2/static/media/BlogPost2.363c067c4814596ea908.png",
+    "static/media/BlogPost1.png": "/frontend-react-wouessi-website-v2/static/media/BlogPost1.64d651f707d923f40736.png",
     "static/media/OurMissionTopImage.png": "/frontend-react-wouessi-website-v2/static/media/OurMissionTopImage.9830888277d569998a41.png",
+    "static/media/blog_page_laptop.png": "/frontend-react-wouessi-website-v2/static/media/blog_page_laptop.346881e72df7d1be0e83.png",
+    "static/media/BantuEd.png": "/frontend-react-wouessi-website-v2/static/media/BantuEd.212e5e7821aa8d02d27b.png",
+    "static/media/bloglist2.png": "/frontend-react-wouessi-website-v2/static/media/bloglist2.2bf7f227ecf9477b7c7c.png",
     "static/media/WhyChooseUsBackground.png": "/frontend-react-wouessi-website-v2/static/media/WhyChooseUsBackground.422ff9abcc253b43388e.png",
     "static/media/TechnicalSEOServicesBlogImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/TechnicalSEOServicesBlogImage.99b3d288f228b064ac88.jpeg",
     "static/media/left-side-image-portfolio.jpeg": "/frontend-react-wouessi-website-v2/static/media/left-side-image-portfolio.5f6b5abc43da2468b8ee.jpeg",
+    "static/media/egolu-app.png": "/frontend-react-wouessi-website-v2/static/media/egolu-app.99c84de3b79a13a26c42.png",
+    "static/media/bloglist3.png": "/frontend-react-wouessi-website-v2/static/media/bloglist3.b165595a5b9a943cc60c.png",
     "static/media/homepage-hero-image.png": "/frontend-react-wouessi-website-v2/static/media/homepage-hero-image.4e66fec7e0ff0caf717f.png",
     "static/media/GoogleCloud.svg": "/frontend-react-wouessi-website-v2/static/media/GoogleCloud.db6fb85d156df8f9244beb80f3fdeb75.svg",
     "static/media/Kubemetes.svg": "/frontend-react-wouessi-website-v2/static/media/Kubemetes.64c72afd67b2226a281a4085f6dfcd44.svg",
@@ -94,12 +101,12 @@
     "index.html": "/frontend-react-wouessi-website-v2/index.html",
     "static/media/HomepageUnknownPartnerLogo.svg": "/frontend-react-wouessi-website-v2/static/media/HomepageUnknownPartnerLogo.fe07b36d93a86649192180d32abdb9d5.svg",
     "static/media/QuoteIcon.svg": "/frontend-react-wouessi-website-v2/static/media/QuoteIcon.714bc0511d33283bd2668cd95a1a08e9.svg",
-    "main.4391d7e6.css.map": "/frontend-react-wouessi-website-v2/static/css/main.4391d7e6.css.map",
-    "main.467a08e0.js.map": "/frontend-react-wouessi-website-v2/static/js/main.467a08e0.js.map",
+    "main.e55f2c9d.css.map": "/frontend-react-wouessi-website-v2/static/css/main.e55f2c9d.css.map",
+    "main.a384e8e7.js.map": "/frontend-react-wouessi-website-v2/static/js/main.a384e8e7.js.map",
     "453.cc97cdc3.chunk.js.map": "/frontend-react-wouessi-website-v2/static/js/453.cc97cdc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4391d7e6.css",
-    "static/js/main.467a08e0.js"
+    "static/css/main.e55f2c9d.css",
+    "static/js/main.a384e8e7.js"
   ]
 }
