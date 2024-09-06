@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.2be2de25.css",
-    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.0e68b503.js",
+    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.8b08b16d.css",
+    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.bb86c440.js",
     "static/js/453.cc97cdc3.chunk.js": "/frontend-react-wouessi-website-v2/static/js/453.cc97cdc3.chunk.js",
     "static/media/HomepageAboutUsImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/HomepageAboutUsImage.b1a8a55a5e97883dc80c.jpeg",
     "static/media/ServicesHeroImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/ServicesHeroImage.72d17a4061532a297339.jpeg",
@@ -101,12 +101,12 @@
     "index.html": "/frontend-react-wouessi-website-v2/index.html",
     "static/media/HomepageUnknownPartnerLogo.svg": "/frontend-react-wouessi-website-v2/static/media/HomepageUnknownPartnerLogo.fe07b36d93a86649192180d32abdb9d5.svg",
     "static/media/QuoteIcon.svg": "/frontend-react-wouessi-website-v2/static/media/QuoteIcon.714bc0511d33283bd2668cd95a1a08e9.svg",
-    "main.2be2de25.css.map": "/frontend-react-wouessi-website-v2/static/css/main.2be2de25.css.map",
-    "main.0e68b503.js.map": "/frontend-react-wouessi-website-v2/static/js/main.0e68b503.js.map",
+    "main.8b08b16d.css.map": "/frontend-react-wouessi-website-v2/static/css/main.8b08b16d.css.map",
+    "main.bb86c440.js.map": "/frontend-react-wouessi-website-v2/static/js/main.bb86c440.js.map",
     "453.cc97cdc3.chunk.js.map": "/frontend-react-wouessi-website-v2/static/js/453.cc97cdc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2be2de25.css",
-    "static/js/main.0e68b503.js"
+    "static/css/main.8b08b16d.css",
+    "static/js/main.bb86c440.js"
   ]
 }
