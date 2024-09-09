@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.04881e1a.css",
-    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.94f2a24a.js",
+    "main.css": "/frontend-react-wouessi-website-v2/static/css/main.6932cc8c.css",
+    "main.js": "/frontend-react-wouessi-website-v2/static/js/main.80a9220f.js",
     "static/js/453.cc97cdc3.chunk.js": "/frontend-react-wouessi-website-v2/static/js/453.cc97cdc3.chunk.js",
     "static/media/HomepageAboutUsImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/HomepageAboutUsImage.b1a8a55a5e97883dc80c.jpeg",
     "static/media/ServicesHeroImage.jpeg": "/frontend-react-wouessi-website-v2/static/media/ServicesHeroImage.72d17a4061532a297339.jpeg",
@@ -22,6 +22,7 @@
     "static/media/africa-block-chain-slider.png": "/frontend-react-wouessi-website-v2/static/media/africa-block-chain-slider.df2b8a187ef4aae8e11c.png",
     "static/media/AIM-slider.png": "/frontend-react-wouessi-website-v2/static/media/AIM-slider.8a2a3211425b798916fd.png",
     "static/media/PortfolioAldeliaImage.png": "/frontend-react-wouessi-website-v2/static/media/PortfolioAldeliaImage.0f312d89aa44ed579124.png",
+    "static/media/ContactPageHeroImage.png": "/frontend-react-wouessi-website-v2/static/media/ContactPageHeroImage.224a5f77df85fa2add7b.png",
     "static/media/OurMissionSideImage.png": "/frontend-react-wouessi-website-v2/static/media/OurMissionSideImage.c52c34ba790b49c01929.png",
     "static/media/BantuEdProductImage.png": "/frontend-react-wouessi-website-v2/static/media/BantuEdProductImage.d41147fb5b69b23e46d6.png",
     "static/media/HomepageRecentProjGIZ.png": "/frontend-react-wouessi-website-v2/static/media/HomepageRecentProjGIZ.7414b21aa8c06c7f4bff.png",
@@ -101,12 +102,12 @@
     "index.html": "/frontend-react-wouessi-website-v2/index.html",
     "static/media/HomepageUnknownPartnerLogo.svg": "/frontend-react-wouessi-website-v2/static/media/HomepageUnknownPartnerLogo.fe07b36d93a86649192180d32abdb9d5.svg",
     "static/media/QuoteIcon.svg": "/frontend-react-wouessi-website-v2/static/media/QuoteIcon.714bc0511d33283bd2668cd95a1a08e9.svg",
-    "main.04881e1a.css.map": "/frontend-react-wouessi-website-v2/static/css/main.04881e1a.css.map",
-    "main.94f2a24a.js.map": "/frontend-react-wouessi-website-v2/static/js/main.94f2a24a.js.map",
+    "main.6932cc8c.css.map": "/frontend-react-wouessi-website-v2/static/css/main.6932cc8c.css.map",
+    "main.80a9220f.js.map": "/frontend-react-wouessi-website-v2/static/js/main.80a9220f.js.map",
     "453.cc97cdc3.chunk.js.map": "/frontend-react-wouessi-website-v2/static/js/453.cc97cdc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04881e1a.css",
-    "static/js/main.94f2a24a.js"
+    "static/css/main.6932cc8c.css",
+    "static/js/main.80a9220f.js"
   ]
 }
