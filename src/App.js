@@ -13,7 +13,6 @@ import Services from "./pages/Services";
 import Products from "./pages/Products";
 import Portfolio from "./pages/Portfolio";
 import ContactUs from "./pages/ContactUs";
-import Insights from "./pages/Insights";
 import Careers from "./pages/Careers";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
@@ -21,6 +20,7 @@ import TermsCondition from "./pages/TermsCondition";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import CookiePolicy from "./pages/CookiePolicy";
 import CopyrightPolicy from "./pages/CopyrightPolicy";
+import ErrorPage from "./pages/Error";
 
 import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 import { BsArrowRight } from "react-icons/bs";
@@ -74,7 +74,7 @@ function App() {
 
   return (
     <ApolloProvider client={client}>
-      <div className={`text-center bg-[#F4F4F4]`}>
+      <div className="text-center bg-[#F4F4F4] overflow-hidden">
         <BrowserRouter>
           <ScrollToTop />
           <Navbar onClick={getData} onMenuItemClick={navMenu} />
@@ -198,9 +198,6 @@ function App() {
                 path="frontend-react-wouessi-website-v2/ContactUs"
                 element={<ContactUs />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/Insights"
-                element={<Insights />}></Route>
-              <Route
                 path="frontend-react-wouessi-website-v2/Careers"
                 element={<Careers />}></Route>
               <Route
@@ -221,6 +218,7 @@ function App() {
               <Route
                 path="frontend-react-wouessi-website-v2/CopyrightPolicy"
                 element={<CopyrightPolicy />}></Route>
+              <Route path="*" element={<ErrorPage />} />
               <Route
                 path="frontend-react-wouessi-website-v2/BlogPost"
                 element={<BlogPost />}></Route>

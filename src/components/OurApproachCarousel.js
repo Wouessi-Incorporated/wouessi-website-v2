@@ -80,7 +80,7 @@ function OurApproachCarousel() {
   return (
     <div className="overflow-hidden pl-[8vw] mt-[3vw]">
       <h1 className="text-[3vw] text-left pl-[1vw] font-bold max-[450px]:text-[7vw]">
-        Our Approaches
+        Our Approach
       </h1>
       <div
         className="flex transition-transform ease-out duration-500"

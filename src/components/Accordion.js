@@ -26,9 +26,10 @@ function Accordion({ title, InnerTextData }) {
           <div className="border-b-[0.1vw] border-[#666666] w-[10vw] max-[450px]:mt-[3vw] max-[450px]:w-full"></div>
         </div>
       </div>
-      {InnerTextData.map((items) => {
+      {InnerTextData.map((items, index) => {
         return (
           <div
+            key={index}
             className={`transition-all duration-200 ease-linear pl-[6vw] ${
               accordionOpen ? `opacity-0 h-0` : `opacity-100 h-full pt-[1vw]`
             }`}>
@@ -41,9 +42,17 @@ function Accordion({ title, InnerTextData }) {
               ) : (
                 ""
               )}
-              <p className="text-[1vw] w-[90%] max-[450px]:text-[2.5vw]">
-                {items.innerText}
-              </p>
+              <div className="text-[1vw] w-[90%] max-[450px]:text-[2.5vw]">
+                {Array.isArray(items.innerText) ? (
+                  items.innerText.map((text, idx) => (
+                    <p key={idx} className="mb-[0.5vw]">
+                      {text}
+                    </p>
+                  ))
+                ) : (
+                  <p>{items.innerText}</p>
+                )}
+              </div>
             </div>
           </div>
         );

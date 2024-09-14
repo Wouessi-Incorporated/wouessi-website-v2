@@ -18,11 +18,6 @@ import OurClients from "../components/OurClients";
 // import AfroTechTalkLogo from "../AfroTechTalkLogo.svg";
 // import KigaliRunningClub from "../assets/SVG/KigaliRunningClub.svg";
 
-import Aldelia from "../assets/SVG/AldeliaLogo.svg";
-import ARQCH from "../assets/SVG/ARQCHLogo.svg";
-import Precision from "../assets/SVG/PrecisionLogo.svg";
-import Charis from "../assets/SVG/CharisLogo.svg";
-import KigaliRunningClub from "../assets/SVG/KigaliRunningClub.svg";
 import CallToActionSection from "../components/CallToActionSection";
 import QuoteIcon from "../QuoteIcon.svg";
 import OurMissionTopImage from "../assets/OurMissionTopImage.png";
@@ -68,6 +63,12 @@ import Kubemetes from "../assets/SVG/Kubemetes.svg";
 import NextJS from "../assets/SVG/NextJS.svg";
 
 function AboutUs() {
+  const handleScroll = () => {
+    document
+      .getElementById("target-section")
+      ?.scrollIntoView({ behavior: "smooth" });
+  };
+
   const cards = [
     {
       image: RodrigueFouafouHeadshot,
@@ -156,7 +157,9 @@ function AboutUs() {
               offers a comprehensive suite of cutting-edge digital services
               tailored to meet the diverse needs of businesses across the globe.
             </p>
-            <div className="border-black border-[0.1vw] hover:bg-[#2703A5] hover:text-white transition ease-in-out rounded-full flex items-center justify-center gap-x-[0.3vw] w-[25vw] h-[25vw] md:w-[14vw] md:h-[14vw] text-[1.1vw] cursor-pointer">
+            <div
+              className="border-black border-[0.1vw] hover:bg-[#2703A5] hover:text-white transition ease-in-out rounded-full flex items-center justify-center gap-x-[0.3vw] w-[25vw] h-[25vw] md:w-[14vw] md:h-[14vw] text-[1.1vw] cursor-pointer"
+              onClick={handleScroll}>
               Our Approach
               <CgArrowLongUp className="text-[1.1vw] rotate-[60deg]" />
             </div>
@@ -247,15 +250,20 @@ function AboutUs() {
         </div>
       </div>
 
-      <OurClients
-        Logo1={ARQCH}
-        Logo2={Precision}
-        Logo3={Aldelia}
-        Logo4={Charis}
-        Logo5={KigaliRunningClub}
-      />
+      <section>
+        <div className="flex justify-center mb-[2vw]">
+          <div className="w-[80%]">
+            <h1 className="text-[3vw] text-left font-bold max-[450px]:text-[7vw]">
+              Our Partners
+            </h1>
+          </div>
+        </div>
+        <OurPartners />
+      </section>
 
-      <OurApproachCarousel />
+      <section id="target-section">
+        <OurApproachCarousel />
+      </section>
 
       <div className="flex justify-center my-[5vw] ">
         <div className="w-[80%]">

@@ -1,35 +1,29 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "../styles/Home.css";
 import { PiArrowCircleRightLight } from "react-icons/pi";
 import { PiArrowCircleLeftLight } from "react-icons/pi";
-import { motion } from "framer-motion";
 import { CgArrowLongUp } from "react-icons/cg";
-import { FaArrowRight } from "react-icons/fa";
-import HomepageHeroImage from "../assets/homepage-hero-image.png";
+import HeroBannerVideo from "../assets/Video/HeroBannerVideo.mp4";
 // import HartnamtemahLogo from "../HartnamtemahLogo.svg";
 // import ASDICLogo from "../ASDICLogo.svg";
 // import CADRLogo from "../CADRLogo.svg";
 // import AfroTechTalkLogo from "../AfroTechTalkLogo.svg";
-import Aldelia from "../assets/SVG/AldeliaLogo.svg";
-import ARQCH from "../assets/SVG/ARQCHLogo.svg";
-import Precision from "../assets/SVG/PrecisionLogo.svg";
-import Charis from "../assets/SVG/CharisLogo.svg";
-import KigaliRunningClub from "../assets/SVG/KigaliRunningClub.svg";
+import Aldelia from "../assets/SVG/ClientsLogo/AldeliaLogo.svg";
+import ARQCH from "../assets/SVG/ClientsLogo/ARQCHLogo.svg";
+import Precision from "../assets/SVG/ClientsLogo/PrecisionLogo.svg";
+import Charis from "../assets/SVG/ClientsLogo/CharisLogo.svg";
+import KigaliRunningClub from "../assets/SVG/ClientsLogo/KigaliRunningClub.svg";
+
 import WhyChooseUsBackground from "../assets/WhyChooseUsBackground.png";
 import DigitalMarketingImage from "../assets/what-we-do-digital-marketing.jpeg";
 import SoftwareEngineeringImage from "../assets/what-we-do-software-engineering.jpeg";
 import SliderData from "../helpers/RecentProjectSlider";
 // import { SliderHome } from "../GraphQL/Queries";
 import { gql, useQuery } from "@apollo/client";
-import parse from "html-react-parser";
-
 import Achievements from "../components/Achievements";
-
 import OurPartners from "../components/OurPartners";
 import NewsletterRegister from "../components/NewsletterRegister";
 import OurClients from "../components/OurClients";
-
-import HomepageAboutUsImage from "../assets/HomepageAboutUsImage.jpeg";
 import RedefineCollab from "../assets/SVG/RedefineCollab.svg";
 import DriveTransformation from "../assets/SVG/DriveTransformation.svg";
 import RiipenLogo from "../assets/SVG/RiipenLogo.svg";
@@ -37,7 +31,7 @@ import BipocFoundationLogo from "../assets/SVG/BipocFoundationLogo.svg";
 import HomepageUnknownPartnerLogo from "../assets/SVG/HomepageUnknownPartnerLogo.svg";
 import AyaLogo from "../assets/SVG/AyaLogo.svg";
 import DigitalMainStLogo from "../assets/SVG/DigitalMainStLogo.svg";
-import BantuEdLogo from "../assets/SVG/BantuEdLogo.svg";
+
 import ClientTestimonySlider from "../components/ClientTestimonySlider";
 import MobileSEOServicesBlogImage from "../assets/MobileSEOServicesBlogImage.jpeg";
 import TechnicalSEOServicesBlogImage from "../assets/TechnicalSEOServicesBlogImage.jpeg";
@@ -231,17 +225,19 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className="flex justify-center mt-[-5vw] max-[450px]:mt-[-9vw]">
+      <div className="flex justify-center mt-[-5vw] max-[450px]:mt-[-7vw]">
         <div className="flex justify-end w-[80%] h-[28vw] max-[450px]:w-full max-[450px]:flex-none max-[450px]:justify-start max-[450px]:h-[42vw]">
-          <div
-            // style={{
-            //   backgroundImage: `url(${parse(
-            //     data.page.featuredImage.node.sourceUrl
-            //   )})`,
-            // }}
-            style={{ backgroundImage: `url(${HomepageHeroImage})` }}
-            className="w-[62vw] h-full bg-cover bg-[center_-6vw] opacity-90 max-[450px]:w-full max-[450px]:bg-[center_-10vw]">
-            <div className="w-[95%] h-fit mt-[3vw] mb-[4vw] flex justify-end text-[#2703A5] z-10 min-[450.1px]:hidden">
+          <div className="w-[62vw] max-[450px]:w-full relative">
+            <video
+              src={HeroBannerVideo}
+              className="h-full bg-cover bg-[center_-6vw] opacity-90 max-[450px]:w-full max-[450px]:bg-[center_-10vw]"
+              autoPlay
+              muted
+              loop
+              controls={false}>
+              Your browser does not support the video tag.
+            </video>
+            <div className="w-[95%] h-fit mt-[-43vw] mb-[4vw] flex justify-end text-[#2703A5] z-10 min-[450.1px]:hidden">
               {WouessiPronunciation ? (
                 <div className="p-[2vw] pt-[3vw] pb-[3vw] bg-white rounded-lg absolute">
                   <h1 className="text-[4.5vw] font-bold">
@@ -261,8 +257,8 @@ function Home() {
                 onClick={() => setWouessiPronunciation(!WouessiPronunciation)}
                 className={`${
                   WouessiPronunciation
-                    ? "bg-[#FF9900]  hover:bg-[#FF9900]"
-                    : "bg-[#2703A5]"
+                    ? "bg-[#FF9900] hover:bg-[#FF9900] z-10"
+                    : "bg-[#2703A5] z-10"
                 } transition ease-in-out duration-300 rounded-full flex items-center justify-center mt-[1vw] w-[12vw] h-[12vw] text-[1.1vw] cursor-pointer`}>
                 {WouessiPronunciation ? (
                   <ImCross className="w-[7vw] h-[7vw] text-white" />
@@ -277,7 +273,7 @@ function Home() {
 
       <div className="w-[95%] h-fit flex justify-end text-[#2703A5] max-[450px]:hidden">
         {WouessiPronunciation ? (
-          <div className="mt-[-9vw] p-[2vw] pt-[2vw] pb-[2vw] bg-white rounded-lg absolute">
+          <div className="mt-[-9vw] p-[2vw] pt-[2vw] pb-[2vw] bg-white rounded-lg">
             <h1 className="text-[2vw] font-bold">Wou-essi /wu: ε si:/</h1>
             <div className="border-[0.1vw] border-[#2703A5]"></div>
             <p className="text-[1.1vw] mt-[1.1vw]">
@@ -509,7 +505,7 @@ function Home() {
             style={{ backgroundImage: `url(${WhyChooseUsBackground})` }}
             className="w-full h-[70vw] mt-[6vw] mb-[6vw] bg-cover bg-center min-[450.1px]:hidden"></div>
           <h3 className="text-[1.2vw] mt-[2vw] text-white max-[450px]:text-[3vw] ">
-            we are committed to helping business owners leverage digital
+            We are committed to helping business owners leverage digital
             technology and solutions, increase their digital footprint, harness
             the benefits of digital presence, and gain a cutting edge ahead of
             their competitors.
@@ -526,14 +522,6 @@ function Home() {
       </div>
 
       <Achievements />
-
-      <OurPartners
-        Logo1={RiipenLogo}
-        Logo2={BipocFoundationLogo}
-        Logo3={HomepageUnknownPartnerLogo}
-        Logo4={AyaLogo}
-        Logo5={DigitalMainStLogo}
-      />
 
       <div className="bg-[#2B00AC] flex justify-center pt-[6vw] pb-[6vw] max-[450px]:pb-[10vw]">
         <div className="w-[80%] text-left flex flex-col">

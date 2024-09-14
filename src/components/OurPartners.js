@@ -1,28 +1,92 @@
 import React from "react";
+import "../styles/global.css";
+import { motion } from "framer-motion";
 
-function OurPartners({ Logo1, Logo2, Logo3, Logo4, Logo5 }) {
+import {
+  ATRCyberLogo,
+  AyaLogo,
+  BantuLogo,
+  BipocLogo,
+  BogolLogo,
+  DigitalMainStLogo,
+  EgoluLogo,
+  EPlogo,
+  EuclidesLogo,
+  ISMLogo,
+  JKMediDesignLogo,
+  KPDILogo,
+  NeuralAILogo,
+  PrimeCementLogo,
+  RiipenLogo,
+  RockPowerLogo,
+  RocksteadyConsultingLogo,
+  StartupYMMLogo,
+  VelocityLogo,
+  YoshiLogo,
+} from "../assets/SVG/PartnersLogo";
+
+function OurPartners() {
   return (
-    <div className="flex justify-center">
-      <div className="w-[80%] flex flex-col mt-[6vw] text-left text-[2.5vw] font-bold max-[450px]:text-[4vw] max-[450px]:h-[16vw] max-[450px]:w-[90%] max-[450px]:mb-[5vw]">
-        <h1>Our Partners</h1>
-        <div className="flex w-full justify-between items-center mt-[-1vw]">
-          <img
-            src={Logo1}
-            className="h-[12vw] w-[12vw] max-[450px]:h-[14vw] max-[450px]:w-[14vw]"></img>
-          <img
-            src={Logo2}
-            className="h-[10vw] w-[10vw] max-[450px]:h-[14vw] max-[450px]:w-[14vw]"></img>
-          <img
-            src={Logo3}
-            className="h-[10vw] w-[10vw] max-[450px]:h-[14vw] max-[450px]:w-[14vw]"></img>
-          <img
-            src={Logo4}
-            className="h-[12vw] w-[12vw] max-[450px]:h-[14vw] max-[450px]:w-[14vw]"></img>
-          <img
-            src={Logo5}
-            className="h-[10vw] w-[10vw] max-[450px]:h-[14vw] max-[450px]:w-[14vw]"></img>
-        </div>
-      </div>
+    <div className="overflow-hidden w-full">
+      <motion.div
+        className="flex gap-x-[6vw] w-max"
+        initial={{ x: "0" }} // Start position
+        animate={{ x: ["5%", "-78%", "0"] }}
+        transition={{
+          repeat: Infinity,
+          duration: 60,
+          ease: "linear",
+        }}>
+        {/* First set of logos */}
+        <img src={ATRCyberLogo} alt="ATRCyber Logo" className="h-12 w-[13vw]" />
+        <img src={AyaLogo} alt="Aya Logo" className="h-12 w-[13vw]" />
+        <img src={BantuLogo} alt="Bantu Logo" className="h-12 w-[13vw]" />
+        <img src={BipocLogo} alt="Bipoc Logo" className="h-12 w-[13vw]" />
+        <img src={BogolLogo} alt="Bogol Logo" className="h-12 w-[13vw]" />
+        <img
+          src={DigitalMainStLogo}
+          alt="Digital Main St Logo"
+          className="h-12 w-[13vw]"
+        />
+        <img src={EgoluLogo} alt="Egolu Logo" className="h-12 w-[13vw]" />
+        <img src={EPlogo} alt="EP Logo" className="h-12 w-[13vw]" />
+        <img src={EuclidesLogo} alt="Euclides Logo" className="h-12 w-[13vw]" />
+        <img src={ISMLogo} alt="ISM Logo" className="h-12 w-[13vw]" />
+        <img
+          src={JKMediDesignLogo}
+          alt="JK Medi Design Logo"
+          className="h-12 w-[13vw]"
+        />
+        <img src={KPDILogo} alt="KPD Logo" className="h-12 w-[13vw]" />
+        <img
+          src={NeuralAILogo}
+          alt="Neural AI Logo"
+          className="h-12 w-[13vw]"
+        />
+        <img
+          src={PrimeCementLogo}
+          alt="Prime Cement Logo"
+          className="h-12 w-[13vw]"
+        />
+        <img src={RiipenLogo} alt="Riipen Logo" className="h-12 w-[13vw]" />
+        <img
+          src={RockPowerLogo}
+          alt="Rock Power Logo"
+          className="h-12 w-[13vw]"
+        />
+        <img
+          src={RocksteadyConsultingLogo}
+          alt="Rocksteady Consulting Logo"
+          className="h-12 w-[13vw]"
+        />
+        <img
+          src={StartupYMMLogo}
+          alt="Startup YMM Logo"
+          className="h-12 w-[13vw]"
+        />
+        <img src={VelocityLogo} alt="Velocity Logo" className="h-12 w-[13vw]" />
+        <img src={YoshiLogo} alt="Yoshi Logo" className="h-12 w-[13vw]" />
+      </motion.div>
     </div>
   );
 }

@@ -1,0 +1,41 @@
+@keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll {
+    animation: scroll 20s linear infinite;
+  }
+  
+  @media (max-width: 450px) {
+    .animate-scroll {
+      animation: scroll 8s linear infinite; 
+    }
+  }
+
+  .shadow-inner-custom {
+    box-shadow: inset 0 0 5px 0 rgba(0, 0, 0, 0.5);
+  }
+
+
+  .navbar-link {
+    display: inline-block;
+    position: relative;
+    text-decoration: none; 
+  }
+  
+  .navbar-link:hover::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2.5px; 
+    width: 100%;
+    height: 1px; 
+    background-color: black;
+    transition: width 0.3s ease;
+  }
+  
