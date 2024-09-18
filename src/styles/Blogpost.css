@@ -1,0 +1,11 @@
+.core-web-vitals ul {
+    list-style: disc !important; 
+    margin-top: 20px; 
+    padding-left: 20px;
+
+}
+
+.core-web-vitals li {
+    margin-bottom: 15px; /* Space between bullet points */
+    line-height: 1.6; /* Improve readability */
+}

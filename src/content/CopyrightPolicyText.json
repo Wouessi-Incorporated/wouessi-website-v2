@@ -1,0 +1,292 @@
+{
+  "en": {
+    "Title": "Copyright Notice and Disclaimer",
+    "Description": "Wouessi Inc. (Company, We,Us, or Our) owns and operates the website https://wouessi.com (Site). The content, design, and all materials on the Site, including but not limited to text, images, graphics, logos, videos, software, and other files, and their arrangement (collectively, Content), are the property of Wouessi Inc., its licensors, or other third-party content providers, and are protected by a range of national and international copyright laws and treaties.",
+    "OwnershipofContent": {
+      "Heading": "Ownership of Content",
+      "Content": [
+        {
+          "innerText": "All Content on the Site is owned by or licensed to Wouessi Inc. and is protected by the following laws and agreements:"
+        },
+        {
+          "innerTitle": "United States Copyright Act (Title 17, U.S. Code):",
+          "innerText": "Governs the protection of original works of authorship in the United States, including literary, artistic, and certain other intellectual works."
+        },
+        {
+          "innerTitle": "Canadian Copyright Act (R.S.C., 1985, c. C-42):",
+          "innerText": "Provides protection for creators in Canada, covering both moral rights and economic rights."
+        },
+        {
+          "innerTitle": "European Union Copyright Directive (Directive 2001/29/EC):",
+          "innerText": "Harmonizes certain aspects of copyright and related rights in the information society within the EU, ensuring a high level of protection for authors and rights holders."
+        },
+        {
+          "innerTitle": "Berne Convention for the Protection of Literary and Artistic Works:",
+          "innerText": "An international agreement that protects the rights of authors and creators across member countries. It grants automatic copyright protection without the need for registration in member countries."
+        },
+        {
+          "innerTitle": "WIPO Copyright Treaty (WCT):",
+          "innerText": "An international treaty administered by the World Intellectual Property Organization (WIPO) that supplements the Berne Convention by extending copyright protection to digital works and distribution methods."
+        },
+        {
+          "innerTitle": "Digital Millennium Copyright Act (DMCA):",
+          "innerText": "A U.S. law that includes provisions for protecting copyrighted digital content, particularly with regard to online service providers and websites."
+        },
+        {
+          "innerTitle": "TRIPS Agreement (Trade-Related Aspects of Intellectual Property Rights):",
+          "innerText": "Administered by the World Trade Organization (WTO), this agreement establishes minimum standards for many forms of intellectual property regulation as applied to nationals of other WTO Members."
+        },
+        {
+          "innerTitle": "Universal Copyright Convention (UCC):",
+          "innerText": "A convention that provides an alternative to the Berne Convention, ensuring that copyright protection is extended internationally under a unified system."
+        },
+        {
+          "innerText": "Unauthorized use, reproduction, modification, distribution, transmission, republication, display, or performance of the Content, in whole or in part, is strictly prohibited unless expressly authorized by Wouessi Inc. in writing."
+        }
+      ]
+    },
+    "LimitedLicense": {
+      "Heading": "Limited License",
+      "Content": [
+        {
+          "innerText": "Wouessi Inc. grants you a limited, non-exclusive, non-transferable, and revocable license to access and use the Site and its Content for personal, non-commercial purposes only. This license is subject to your compliance with the terms and conditions of this Copyright Notice and the Terms of Service of the Site."
+        }
+      ]
+    },
+    "ProhibitedUses": {
+      "Heading": "Prohibited Uses",
+      "Content": [
+        {
+          "innerText": [
+            "You may not copy, reproduce, distribute, publish, display, perform, modify, create derivative works from, transmit, or in any way exploit any part of the Site or Content without our prior written consent.",
+            "You may not use any content from the Site for commercial purposes or public display, performance, sale, or rental, without prior written permission from Wouessi Inc.",
+            "You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Wouessi Inc. without our express written consent.",
+            "You may not use any metatags or any other hidden text utilizing Wouessi Inc.'s name or trademarks without our express written consent."
+          ]
+        }
+      ]
+    },
+    "UserContributions": {
+      "Heading": "User Contributions",
+      "Content": [
+        {
+          "innerText": "If you submit any content (e.g., comments, feedback, suggestions) to the Site ('User Contributions'), you grant Wouessi Inc. a non-exclusive, royalty-free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such User Contributions throughout the world in any media. You represent and warrant that you own or control all rights to the User Contributions and that the content does not infringe any third-party rights."
+        }
+      ]
+    },
+    "Trademarks": {
+      "Heading": "Trademarks",
+      "Content": [
+        {
+          "innerText": "The trademarks, service marks, logos, and trade names displayed on the Site are the registered and unregistered trademarks of Wouessi Inc. or its licensors. You may not use any trademarks, logos, or service marks displayed on the Site without the prior written consent of Wouessi Inc. or the respective owner."
+        }
+      ]
+    },
+    "CopyrightDisclaimer": {
+      "Heading": "Copyright Disclaimer",
+      "Content": [
+        {
+          "innerText": "All Content on this Site is provided 'as is' for informational purposes only. While Wouessi Inc. strives to ensure the accuracy and completeness of the Content, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the Site or the Content. Any reliance you place on such information is therefore strictly at your own risk. Wouessi Inc. will not be liable for any losses or damages, including without limitation, indirect or consequential losses or damages, or any losses or damages whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this Site."
+        }
+      ]
+    },
+    "CopyrightInfringementNotification": {
+      "Heading": "Copyright Infringement Notification",
+      "Content": [
+        {
+          "innerText": [
+            "Wouessi Inc. respects the intellectual property rights of others and expects users of the Site to do the same. If you believe that any Content on the Site infringes your copyright, please provide us with a written notice that includes the following information:",
+            "A physical or electronic signature of the person authorized to act on behalf of the copyright owner.",
+            "A description of the copyrighted work that you claim has been infringed.",
+            "A description of the Content on the Site that you claim is infringing, with sufficient detail to enable us to locate it.",
+            "Your address, telephone number, and email address.",
+            "A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.",
+            "A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.",
+            "Please send the notification to:",
+            "Address: Wouessi Inc., Unit 202, 117 Peter Street, Toronto, M5V1X1",
+            "Email: copyright@wouessi.com",
+            "Website: https://wouessi.com"
+          ]
+        }
+      ]
+    },
+    "LinkstoThirdPartySites": {
+      "Heading": "Links to Third-Party Sites",
+      "Content": [
+        {
+          "innerText": "The Site may contain links to third-party websites that are not owned or controlled by Wouessi Inc. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites. We strongly advise you to read the terms and conditions and privacy policy of any third-party website you visit."
+        }
+      ]
+    },
+    "TerminationofAccess": {
+      "Heading": "Termination of Access",
+      "Content": [
+        {
+          "innerText": "Wouessi Inc. reserves the right to terminate your access to the Site and Content at any time, without notice, for any reason whatsoever, including but not limited to a breach of this Copyright Notice."
+        }
+      ]
+    },
+    "ChangestoCopyrightNotice": {
+      "Heading": "Changes to this Copyright Notice",
+      "Content": [
+        {
+          "innerText": "Wouessi Inc. reserves the right to update or modify this Copyright Notice at any time without prior notice. Any changes will be effective immediately upon posting of the revised Copyright Notice on the Site. Your continued use of the Site following the posting of changes constitutes your acceptance of such changes."
+        }
+      ]
+    },
+    "ContactUs": {
+      "Heading": "Contact Us",
+      "Content": [
+        {
+          "innerText": "If you have any questions or concerns about this Privacy Policy or our data practices, please contact us."
+        }
+      ]
+    }
+  },
+
+  "fr": {
+    "Title": "Avis de Copyright et Déni de Responsabilité",
+    "Description": "Wouessi Inc. (la Société, Nous, ou Notre) possède et exploite le site web https://wouessi.com (le Site). Le contenu, la conception et tous les matériaux présents sur le Site, y compris, mais sans s'y limiter, les textes, images, graphiques, logos, vidéos, logiciels et autres fichiers, ainsi que leur disposition (collectivement, le 'Contenu'), sont la propriété de Wouessi Inc., de ses concédants ou d'autres fournisseurs de contenu tiers, et sont protégés par diverses lois nationales et internationales sur le droit d'auteur et des traités.",
+    "OwnershipofContent": {
+      "Heading": "Propriété du Contenu",
+      "Content": [
+        {
+          "innerText": "Tout le contenu du Site est la propriété de Wouessi Inc. ou sous licence de celle-ci, et est protégé par les lois et accords suivants :"
+        },
+        {
+          "innerTitle": "Loi sur le droit d'auteur des États-Unis (Titre 17, Code des États-Unis) :",
+          "innerText": "Régit la protection des œuvres originales aux États-Unis, y compris les œuvres littéraires, artistiques et certaines autres œuvres intellectuelles."
+        },
+        {
+          "innerTitle": "Loi canadienne sur le droit d'auteur (L.R.C., 1985, ch. C-42) :",
+          "innerText": "Fournit une protection pour les créateurs au Canada, couvrant à la fois les droits moraux et économiques."
+        },
+        {
+          "innerTitle": "Directive européenne sur le droit d'auteur (Directive 2001/29/CE) :",
+          "innerText": "Harmonise certains aspects du droit d'auteur et des droits connexes dans la société de l'information au sein de l'UE, assurant un haut niveau de protection pour les auteurs et les titulaires de droits."
+        },
+        {
+          "innerTitle": "Convention de Berne pour la protection des œuvres littéraires et artistiques :",
+          "innerText": "Un accord international qui protège les droits des auteurs et des créateurs dans les pays membres. Il accorde une protection automatique des droits d'auteur sans nécessité d'enregistrement dans les pays membres."
+        },
+        {
+          "innerTitle": "Traité de l'OMPI sur le droit d'auteur (WCT) :",
+          "innerText": "Un traité international administré par l'Organisation Mondiale de la Propriété Intellectuelle (OMPI) qui complète la Convention de Berne en étendant la protection du droit d'auteur aux œuvres et aux méthodes de distribution numériques."
+        },
+        {
+          "innerTitle": "Loi américaine sur le droit d'auteur numérique (DMCA) :",
+          "innerText": "Une loi américaine qui comprend des dispositions pour la protection du contenu numérique soumis aux droits d'auteur, en particulier en ce qui concerne les fournisseurs de services en ligne et les sites web."
+        },
+        {
+          "innerTitle": "Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce (ADPIC) :",
+          "innerText": "Administré par l'Organisation Mondiale du Commerce (OMC), cet accord établit des normes minimales pour de nombreuses formes de réglementation de la propriété intellectuelle, appliquées aux ressortissants des autres membres de l'OMC."
+        },
+        {
+          "innerTitle": "Convention Universelle sur le Droit d'Auteur (CUDA) :",
+          "innerText": "Une convention qui offre une alternative à la Convention de Berne, garantissant que la protection du droit d'auteur soit étendue internationalement sous un système unifié."
+        },
+        {
+          "innerText": "Toute utilisation, reproduction, modification, distribution, transmission, réédition, affichage ou exécution non autorisée du Contenu, en tout ou en partie, est strictement interdite sauf autorisation expresse écrite de Wouessi Inc."
+        }
+      ]
+    },
+    "LimitedLicense": {
+      "Heading": "Licence Limitée",
+      "Content": [
+        {
+          "innerText": "Wouessi Inc. vous accorde une licence limitée, non exclusive, non transférable et révocable pour accéder et utiliser le Site et son Contenu à des fins personnelles et non commerciales uniquement. Cette licence est soumise à votre conformité avec les termes et conditions de cet Avis de Copyright et aux Conditions Générales d'Utilisation du Site."
+        }
+      ]
+    },
+    "ProhibitedUses": {
+      "Heading": "Utilisations Interdites",
+      "Content": [
+        {
+          "innerText": [
+            "Vous ne pouvez copier, reproduire, distribuer, publier, afficher, exécuter, modifier, créer des œuvres dérivées à partir de, transmettre, ou exploiter d'une quelconque manière toute partie du Site ou du Contenu sans notre consentement écrit préalable.",
+            "Vous ne pouvez utiliser aucun contenu du Site à des fins commerciales ou pour un affichage public, une exécution, une vente ou une location, sans autorisation écrite préalable de Wouessi Inc.",
+            "Vous ne pouvez pas encadrer ou utiliser des techniques d'encadrement pour inclure des marques, logos ou autres informations propriétaires (y compris les images, textes, la mise en page de la page ou le formulaire) de Wouessi Inc. sans notre consentement écrit exprès.",
+            "Vous ne pouvez pas utiliser de balises méta ou tout autre texte caché utilisant le nom ou les marques de Wouessi Inc. sans notre consentement écrit exprès."
+          ]
+        }
+      ]
+    },
+    "UserContributions": {
+      "Heading": "Contributions des Utilisateurs",
+      "Content": [
+        {
+          "innerText": "Si vous soumettez tout contenu (par exemple, des commentaires, des retours, des suggestions) au Site ('Contributions des Utilisateurs'), vous accordez à Wouessi Inc. un droit non exclusif, libre de redevances, perpétuel, irrévocable et entièrement sous-licenciable d'utiliser, reproduire, modifier, adapter, publier, traduire, créer des œuvres dérivées à partir de, distribuer et afficher ces Contributions des Utilisateurs à travers le monde dans tous les médias. Vous déclarez et garantissez que vous possédez ou contrôlez tous les droits sur les Contributions des Utilisateurs et que le contenu ne porte atteinte à aucun droit de tiers."
+        }
+      ]
+    },
+    "Trademarks": {
+      "Heading": "Marques",
+      "Content": [
+        {
+          "innerText": "Les marques de commerce, marques de service, logos et noms commerciaux affichés sur le Site sont les marques déposées ou non déposées de Wouessi Inc. ou de ses concédants. Vous ne pouvez utiliser aucune marque, logo ou marque de service affichée sur le Site sans le consentement écrit préalable de Wouessi Inc. ou du propriétaire respectif."
+        }
+      ]
+    },
+    "CopyrightDisclaimer": {
+      "Heading": "Avis de Non-Responsabilité sur le Copyright",
+      "Content": [
+        {
+          "innerText": "Tout le Contenu de ce Site est fourni 'tel quel' à des fins informatives uniquement. Bien que Wouessi Inc. s'efforce d'assurer l'exactitude et l'exhaustivité du Contenu, nous ne faisons aucune déclaration ou garantie, expresse ou implicite, quant à l'exhaustivité, l'exactitude, la fiabilité, la pertinence ou la disponibilité du Site ou du Contenu. Toute confiance que vous placez dans de telles informations est donc strictement à vos propres risques. Wouessi Inc. ne sera pas responsable des pertes ou dommages, y compris, sans limitation, les pertes ou dommages indirects ou consécutifs, ou toute perte ou dommage résultant de la perte de données ou de profits découlant de l'utilisation de ce Site."
+        }
+      ]
+    },
+    "CopyrightInfringementNotification": {
+      "Heading": "Notification de Violation de Droit d'Auteur",
+      "Content": [
+        {
+          "innerText": [
+            "Wouessi Inc. respecte les droits de propriété intellectuelle d'autrui et attend des utilisateurs du Site qu'ils fassent de même. Si vous pensez que du Contenu sur le Site porte atteinte à vos droits d'auteur, veuillez nous fournir une notification écrite comprenant les informations suivantes :",
+            "Une signature physique ou électronique de la personne autorisée à agir au nom du titulaire du droit d'auteur.",
+            "Une description de l'œuvre protégée par le droit d'auteur que vous prétendez avoir été violée.",
+            "Une description du Contenu sur le Site que vous prétendez enfreindre, avec suffisamment de détails pour nous permettre de le localiser.",
+            "Votre adresse, numéro de téléphone et adresse e-mail.",
+            "Une déclaration de votre part indiquant que vous croyez de bonne foi que l'utilisation contestée n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi.",
+            "Une déclaration de votre part, faite sous peine de parjure, que les informations ci-dessus dans votre notification sont exactes et que vous êtes le titulaire du droit d'auteur ou autorisé à agir au nom du titulaire du droit d'auteur.",
+            "Veuillez envoyer la notification à :",
+            "Adresse : Wouessi Inc., Unité 202, 117 Peter Street, Toronto, M5V1X1",
+            "Email : copyright@wouessi.com",
+            "Site web : https://wouessi.com"
+          ]
+        }
+      ]
+    },
+
+    "LinkstoThirdPartySites": {
+      "Heading": "Liens vers des sites tiers",
+      "Content": [
+        {
+          "innerText": "Le site peut contenir des liens vers des sites Web tiers qui ne sont pas détenus ou contrôlés par Wouessi Inc. Nous n'exerçons aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques de ces sites Web tiers et n'assumons aucune responsabilité à leur égard. Nous vous conseillons vivement de lire les conditions générales et la politique de confidentialité de tout site Web tiers que vous visitez."
+        }
+      ]
+    },
+    "TerminationofAccess": {
+      "Heading": "Résiliation de l'accès",
+      "Content": [
+        {
+          "innerText": "Wouessi Inc. se réserve le droit de résilier votre accès au site et au contenu à tout moment, sans préavis, pour quelque raison que ce soit, y compris, mais sans s'y limiter, une violation du présent avis sur le droit d'auteur."
+        }
+      ]
+    },
+    "ChangestoCopyrightNotice": {
+      "Heading": "Modifications de cet avis sur le droit d'auteur",
+      "Content": [
+        {
+          "innerText": "Wouessi Inc. se réserve le droit de mettre à jour ou de modifier cet avis sur le droit d'auteur à tout moment sans préavis. Toute modification prendra effet immédiatement après la publication de l'avis révisé sur le site. Votre utilisation continue du site après la publication des modifications constitue votre acceptation de ces modifications."
+        }
+      ]
+    },
+    "ContactUs": {
+      "Heading": "Contactez-nous",
+      "Content": [
+        {
+          "innerText": "Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité ou nos pratiques en matière de données, veuillez nous contacter."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "en": {
+      "sectionTitle": "RECENT BLOGS",
+      "mainHeading": "Where Software Engineering Meets Digital Marketing",
+      "description": "Discover insights for businesses seeking digital transformation. Explore trends, strategies, and technologies related to software optimization, data-driven marketing, and the online platform ecosystem. Get practical tips to stay updated and gain a competitive edge.",
+      "blogPosts": [
+        {
+          "category": "SEO SERVICES",
+          "date": "11 July 2024",
+          "title": "Key Reasons Why Your Business Needs Mobile SEO Services",
+          "linkText": "Read more"
+        },
+        {
+          "category": "SEO SERVICES",
+          "date": "11 July 2024",
+          "title": "Technical SEO Services: Optimize and Rank your Website",
+          "linkText": "Read more"
+        }
+      ]
+    },
+    "fr": {
+      "sectionTitle": "BLOGS RÉCENTS",
+      "mainHeading": "Où l'ingénierie logicielle rencontre le marketing digital",
+      "description": "Découvrez des informations pour les entreprises cherchant à se transformer numériquement. Explorez les tendances, stratégies et technologies liées à l'optimisation des logiciels, au marketing basé sur les données et à l'écosystème des plateformes en ligne. Obtenez des conseils pratiques pour rester à jour et obtenir un avantage concurrentiel.",
+      "blogPosts": [
+        {
+          "category": "SERVICES SEO",
+          "date": "11 Juillet 2024",
+          "title": "Raisons clés pour lesquelles votre entreprise a besoin de services SEO mobiles",
+          "linkText": "Lire la suite"
+        },
+        {
+          "category": "SERVICES SEO",
+          "date": "11 Juillet 2024",
+          "title": "Services SEO techniques : Optimisez et classez votre site web",
+          "linkText": "Lire la suite"
+        }
+      ]
+    }
+  }
+  

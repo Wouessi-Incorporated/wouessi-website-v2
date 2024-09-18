@@ -1,0 +1,43 @@
+{"Development": [
+    {
+      "innerTitle": "Front End Developer",
+      "innerText":
+        "Search Engine Optimization (SEO) affects the visibility of a website or a web page in search engine  results via organic search. We optimize your web pages, websites, and Blogs posts to rank higher on search engines through SEO techniques."
+    },
+    {
+      "innerTitle": "Product Developer",
+      "innerText":
+        "We are seeking a talented and innovative Product Developer to join our team. The Product Developer will be responsible for leading the development and enhancement of new and existing products from concept to launch. The ideal candidate will have a strong blend of technical expertise, creativity, and market awareness to drive product innovation and deliver solutions that meet customer needs and business objectives."
+    },
+    {
+      "innerTitle": "Full Stack Developer",
+      "innerText":
+        "We are seeking a talented Full Stack Developer to join our team. As a Full Stack Developer, you will be responsible for designing, developing, and maintaining both front-end and back-end applications. You will collaborate with cross-functional teams to define, design, and ship new features, as well as iterate on existing products. The ideal candidate should be proficient in both front-end and back-end development technologies and possess strong problem-solving skills."
+    },
+    {
+      "innerTitle": "Back End Developer",
+      "innerText":
+        "We are seeking a highly skilled and experienced Back End Developer to join our team. The Back End Developer will be responsible for designing, developing, and maintaining server-side applications and databases to support our web and mobile applications. The ideal candidate will have a strong background in backend technologies, database management, and API development, with a focus on delivering scalable, secure, and high-performance solutions."
+    }
+  ],
+  "ProductDev": [
+    {
+      "innerTitle": "Project Manager",
+      "innerText":
+        "We are seeking an experienced Project Manager to join our team. The Project Manager will be responsible for overseeing the planning, execution, and delivery of projects within the specified scope, timeline, and budget. The ideal candidate will possess strong leadership, communication, and organisational skills, with a proven track record of successfully managing projects from initiation to completion."
+    }
+  ],
+  "Sales": [
+    {
+      "innerTitle": "Remote Sales Associate",
+      "innerText":
+        "We are seeking a motivated and dynamic Remote Sales Associate to join our team. This role involves working remotely to identify, engage, and convert potential leads into satisfied clients. The ideal candidate will have excellent communication skills, a proactive attitude, and the ability to travel as needed to meet with leads and close deals."
+    }
+  ],
+  "Design": [
+    {
+      "innerTitle": "Talent Pool",
+      "innerText":
+        "We don't have any active positions open in this area currently, but feel free to submit your resume to our talent pool, so that you can be considered first if anything opens up in the future."
+    }
+  ]}

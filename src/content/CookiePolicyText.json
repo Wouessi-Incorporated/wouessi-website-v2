@@ -1,0 +1,221 @@
+{
+  "en": {
+    "Title": "Cookie Policy",
+    "Description": "Wouessi Inc. (\"We,\" \"Us,\" or \"Our\") operates the website https://wouessi.com (\"Site\"). This Cookie Policy explains how we use cookies and similar tracking technologies on our Site. This Cookies Policy explains what cookies are, how we use them, and your choices regarding their use.",
+    "WhatAreCookies": {
+      "Heading": "What Are Cookies?",
+      "Content": [
+        {
+          "innerText": "Cookies are small text files stored on your device (computer, smartphone, tablet, etc.) when you visit a website. They help websites recognize your device and store information about your preferences or actions to improve your browsing experience. Cookies may be 'session' (temporary) or 'persistent' (stored on your device until deleted). Session cookies are deleted when you close your browser, while persistent cookies remain for a specified period or until manually deleted."
+        }
+      ]
+    },
+    "TypesOfCookies": {
+      "Heading": "Types of Cookies We Use",
+      "Content": [
+        {
+          "innerTitle": "Strictly Necessary Cookies",
+          "innerText": "These cookies are essential for the proper functioning of the Site. They enable core functionalities like security, network management, and accessibility. Without these cookies, the Site may not function properly. Example: Cookies that allow you to log in securely to your account."
+        },
+        {
+          "innerTitle": "Performance Cookies",
+          "innerText": "These cookies help us understand how visitors interact with our Site by collecting anonymous information. This data is used to improve the performance and functionality of the Site. Example: Cookies that track the pages you visit the most often."
+        },
+        {
+          "innerTitle": "Functional Cookies",
+          "innerText": "Functional cookies allow the Site to remember choices you make, such as your language preferences, to provide a more personalized experience. Example: Cookies that save your language settings."
+        },
+        {
+          "innerTitle": "Targeting/Advertising Cookies",
+          "innerText": "These cookies are used to deliver advertisements that are relevant to you. They track your browsing habits and help us serve ads based on your interests. Example: Cookies that track your interaction with our ads on social media platforms."
+        },
+        {
+          "innerTitle": "Analytical Cookies",
+          "innerText": "These cookies help us gather information on how users interact with the website, such as traffic volume, page usage, and clickstream data. The information collected is anonymous but helps us improve website functionality. Example: Google Analytics cookies that measure website traffic."
+        }
+      ]
+    },
+    "HowWeUseCookies": {
+      "Heading": "How We Use Cookies",
+      "Content": [
+        {
+          "innerText": "We use cookies to enhance the functionality and performance of our Site. Personalize your experience by remembering your preferences and settings. Analyze user behavior and website traffic to improve site performance. Serve you with relevant ads based on your browsing behavior. Monitor and analyze the effectiveness of our marketing campaigns."
+        }
+      ]
+    },
+    "ThirdPartyCookies": {
+      "Heading": "Third-Party Cookies",
+      "Content": [
+        {
+          "innerText": "In addition to our own cookies, we allow third-party service providers to place cookies on your device for the following purposes: Analytics: Cookies from third-party providers like Google Analytics help us analyze traffic and user behavior on our Site. Advertising: Third-party providers like Facebook and Google may use cookies to track user behavior and serve personalized ads based on your interests. Social Media: These cookies enable you to share content from our Site on social media platforms like Facebook, LinkedIn, and Twitter."
+        }
+      ]
+    },
+    "ConsentToCookies": {
+      "Heading": "Consent to Use Cookies",
+      "Content": [
+        {
+          "innerText": "By continuing to use our Site, you consent to our use of cookies as described in this Cookies Policy. When you first visit our Site, you will see a cookies consent banner. You can choose to accept or decline the use of non-essential cookies. Essential cookies, necessary for the functioning of the Site, cannot be declined."
+        }
+      ]
+    },
+    "CookiePreferences": {
+      "Heading": "Your Cookie Preferences",
+      "Content": [
+        {
+          "innerText": "You have several options to manage or disable cookies: Browser Settings: You can configure your browser settings to refuse or block cookies or to delete existing cookies. Instructions for managing cookies vary depending on your browser: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge. Opt-out of Targeted Advertising: You can opt out of third-party targeting cookies by using the following industry opt-out mechanisms: Network Advertising Initiative (NAI), Digital Advertising Alliance (DAA), European Interactive Digital Advertising Alliance (EDAA). Consent Management Platforms (CMP): On our Site, you may find a cookies consent management tool that allows you to customize your preferences for different types of cookies."
+        }
+      ]
+    },
+    "CookieRetentionPeriod": {
+      "Heading": "Cookie Retention Period",
+      "Content": [
+        {
+          "innerText": "The length of time a cookie remains on your device depends on its type: Session Cookies: These cookies are deleted once you close your browser. Persistent Cookies: These cookies remain on your device until they expire or you delete them. The retention period for persistent cookies depends on the purpose of the cookie and can vary between 30 days to several years."
+        }
+      ]
+    },
+    "SecurityAndPrivacy": {
+      "Heading": "Security and Privacy Concerns",
+      "Content": [
+        {
+          "innerText": "We take the privacy of your data seriously. Cookies used on our Site do not store personally identifiable information like your name or email address. We ensure that any data collected through cookies is anonymized, and we implement security measures to protect it from unauthorized access or misuse. However, you should be aware that disabling cookies may impact your experience on our Site, particularly with regard to functionalities such as logins and personal preferences."
+        }
+      ]
+    },
+    "ChangesToPolicy": {
+      "Heading": "Changes to This Cookies Policy",
+      "Content": [
+        {
+          "innerText": "We may update this Cookies Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted on this page with the updated 'Effective Date.'"
+        }
+      ]
+    },
+    "YourRights": {
+      "Heading": "Your Rights Under Data Protection Laws",
+      "Content": [
+        {
+          "innerText": "Depending on your jurisdiction, you may have certain rights regarding the use of your data collected through cookies, such as: The right to access: You may request copies of your personal data. The right to rectify: You can request corrections to inaccurate or incomplete data. The right to erase: You may request that we erase your personal data under certain conditions. The right to object: You have the right to object to our processing of your data collected through cookies. To exercise any of these rights, please contact us at the details provided below."
+        }
+      ]
+    },
+    "ContactUs": {
+      "Heading": "Contact Us",
+      "Content": [
+        {
+          "innerText": "If you have any questions, concerns, or requests regarding this Cookies Policy or the use of cookies on our Site, please contact us at:"
+        }
+      ]
+    }
+  },
+    "fr": {
+      "Title": "Politique de Cookies",
+      "Description": "Wouessi Inc. (« Nous », « Notre » ou « Nos ») exploite le site web https://wouessi.com (« Site »). Cette Politique de Cookies explique comment nous utilisons les cookies et les technologies de suivi similaires sur notre Site. Cette Politique de Cookies explique ce que sont les cookies, comment nous les utilisons et vos choix concernant leur utilisation.",
+      "WhatAreCookies": {
+        "Heading": "Que sont les Cookies ?",
+        "Content": [
+          {
+            "innerText": "Les cookies sont de petits fichiers texte stockés sur votre appareil (ordinateur, smartphone, tablette, etc.) lorsque vous visitez un site web. Ils aident les sites web à reconnaître votre appareil et à stocker des informations sur vos préférences ou vos actions pour améliorer votre expérience de navigation. Les cookies peuvent être 'de session' (temporaires) ou 'persistants' (stockés sur votre appareil jusqu'à leur suppression). Les cookies de session sont supprimés lorsque vous fermez votre navigateur, tandis que les cookies persistants restent pendant une période spécifiée ou jusqu'à leur suppression manuelle."
+          }
+        ]
+      },
+      "TypesOfCookies": {
+        "Heading": "Types de Cookies Que Nous Utilisons",
+        "Content": [
+          {
+            "innerTitle": "Cookies Strictement Nécessaires",
+            "innerText": "Ces cookies sont essentiels au bon fonctionnement du Site. Ils permettent des fonctionnalités de base telles que la sécurité, la gestion du réseau et l'accessibilité. Sans ces cookies, le Site peut ne pas fonctionner correctement. Exemple : Cookies permettant de vous connecter en toute sécurité à votre compte."
+          },
+          {
+            "innerTitle": "Cookies de Performance",
+            "innerText": "Ces cookies nous aident à comprendre comment les visiteurs interagissent avec notre Site en collectant des informations anonymes. Ces données sont utilisées pour améliorer la performance et la fonctionnalité du Site. Exemple : Cookies qui suivent les pages que vous visitez le plus souvent."
+          },
+          {
+            "innerTitle": "Cookies Fonctionnels",
+            "innerText": "Les cookies fonctionnels permettent au Site de se souvenir des choix que vous faites, tels que vos préférences linguistiques, pour offrir une expérience plus personnalisée. Exemple : Cookies qui enregistrent vos paramètres de langue."
+          },
+          {
+            "innerTitle": "Cookies de Ciblage/Publicité",
+            "innerText": "Ces cookies sont utilisés pour diffuser des publicités pertinentes pour vous. Ils suivent vos habitudes de navigation et nous aident à servir des annonces basées sur vos intérêts. Exemple : Cookies qui suivent votre interaction avec nos annonces sur les plateformes de médias sociaux."
+          },
+          {
+            "innerTitle": "Cookies Analytiques",
+            "innerText": "Ces cookies nous aident à recueillir des informations sur la façon dont les utilisateurs interagissent avec le site web, telles que le volume de trafic, l'utilisation des pages et les données de navigation. Les informations collectées sont anonymes mais nous aident à améliorer la fonctionnalité du site web. Exemple : Cookies Google Analytics qui mesurent le trafic du site web."
+          }
+        ]
+      },
+      "HowWeUseCookies": {
+        "Heading": "Comment Nous Utilisons les Cookies",
+        "Content": [
+          {
+            "innerText": "Nous utilisons des cookies pour améliorer la fonctionnalité et la performance de notre Site. Personnaliser votre expérience en mémorisant vos préférences et paramètres. Analyser le comportement des utilisateurs et le trafic du site web pour améliorer la performance du site. Vous servir des publicités pertinentes en fonction de votre comportement de navigation. Surveiller et analyser l'efficacité de nos campagnes marketing."
+          }
+        ]
+      },
+      "ThirdPartyCookies": {
+        "Heading": "Cookies de Tiers",
+        "Content": [
+          {
+            "innerText": "En plus de nos propres cookies, nous permettons à des fournisseurs de services tiers de placer des cookies sur votre appareil pour les raisons suivantes : Analytique : Les cookies de fournisseurs tiers comme Google Analytics nous aident à analyser le trafic et le comportement des utilisateurs sur notre Site. Publicité : Les fournisseurs tiers comme Facebook et Google peuvent utiliser des cookies pour suivre le comportement des utilisateurs et diffuser des annonces personnalisées en fonction de vos intérêts. Réseaux Sociaux : Ces cookies vous permettent de partager du contenu de notre Site sur des plateformes de réseaux sociaux comme Facebook, LinkedIn et Twitter."
+          }
+        ]
+      },
+      "ConsentToCookies": {
+        "Heading": "Consentement à l'Utilisation des Cookies",
+        "Content": [
+          {
+            "innerText": "En continuant à utiliser notre Site, vous consentez à notre utilisation des cookies comme décrit dans cette Politique de Cookies. Lors de votre première visite sur notre Site, vous verrez une bannière de consentement aux cookies. Vous pouvez choisir d'accepter ou de refuser l'utilisation des cookies non essentiels. Les cookies essentiels, nécessaires au fonctionnement du Site, ne peuvent pas être refusés."
+          }
+        ]
+      },
+      "CookiePreferences": {
+        "Heading": "Vos Préférences en Matière de Cookies",
+        "Content": [
+          {
+            "innerText": "Vous avez plusieurs options pour gérer ou désactiver les cookies : Paramètres du Navigateur : Vous pouvez configurer les paramètres de votre navigateur pour refuser ou bloquer les cookies ou pour supprimer les cookies existants. Les instructions pour gérer les cookies varient selon le navigateur : Google Chrome, Mozilla Firefox, Safari, Microsoft Edge. Désinscription de la Publicité Ciblée : Vous pouvez vous désinscrire des cookies de ciblage tiers en utilisant les mécanismes de désinscription suivants : Network Advertising Initiative (NAI), Digital Advertising Alliance (DAA), European Interactive Digital Advertising Alliance (EDAA). Plates-formes de Gestion du Consentement (CMP) : Sur notre Site, vous pouvez trouver un outil de gestion du consentement aux cookies qui vous permet de personnaliser vos préférences pour différents types de cookies."
+          }
+        ]
+      },
+      "CookieRetentionPeriod": {
+        "Heading": "Durée de Conservation des Cookies",
+        "Content": [
+          {
+            "innerText": "La durée pendant laquelle un cookie reste sur votre appareil dépend de son type : Cookies de Session : Ces cookies sont supprimés une fois que vous fermez votre navigateur. Cookies Persistants : Ces cookies restent sur votre appareil jusqu'à leur expiration ou leur suppression. La période de conservation des cookies persistants dépend de l'objectif du cookie et peut varier entre 30 jours et plusieurs années."
+          }
+        ]
+      },
+      "SecurityAndPrivacy": {
+        "Heading": "Sécurité et Préoccupations en Matière de Confidentialité",
+        "Content": [
+          {
+            "innerText": "Nous prenons la confidentialité de vos données au sérieux. Les cookies utilisés sur notre Site ne stockent pas d'informations personnellement identifiables telles que votre nom ou votre adresse e-mail. Nous veillons à ce que les données collectées via les cookies soient anonymisées, et nous mettons en œuvre des mesures de sécurité pour les protéger contre tout accès ou utilisation non autorisé. Cependant, vous devez être conscient que la désactivation des cookies peut affecter votre expérience sur notre Site, notamment en ce qui concerne des fonctionnalités telles que les connexions et les préférences personnelles."
+          }
+        ]
+      },
+      "ChangesToPolicy": {
+        "Heading": "Modifications de Cette Politique de Cookies",
+        "Content": [
+          {
+            "innerText": "Nous pouvons mettre à jour cette Politique de Cookies de temps à autre pour refléter les changements dans nos pratiques ou pour d'autres raisons opérationnelles, légales ou réglementaires. Toute modification sera publiée sur cette page avec la 'Date d'Entrée en Vigueur' mise à jour."
+          }
+        ]
+      },
+      "YourRights": {
+        "Heading": "Vos Droits en Vertu des Lois sur la Protection des Données",
+        "Content": [
+          {
+            "innerText": "Selon votre juridiction, vous pouvez avoir certains droits concernant l'utilisation de vos données collectées par les cookies, tels que : Le droit d'accès : Vous pouvez demander des copies de vos données personnelles. Le droit de rectification : Vous pouvez demander des corrections de données inexactes ou incomplètes. Le droit à l'effacement : Vous pouvez demander que nous supprimions vos données personnelles dans certaines conditions. Le droit d'opposition : Vous avez le droit de vous opposer à notre traitement de vos données collectées par les cookies. Pour exercer l'un de ces droits, veuillez nous contacter aux coordonnées fournies ci-dessous."
+          }
+        ]
+      },
+      "ContactUs": {
+        "Heading": "Contactez-Nous",
+        "Content": [
+          {
+            "innerText": "Si vous avez des questions, des préoccupations ou des demandes concernant cette Politique de Cookies ou l'utilisation des cookies sur notre Site, veuillez nous contacter à :"
+          }
+        ]
+      }
+    }
+  
+}

@@ -1,0 +1,77 @@
+{
+    "en": {
+      "aboutUs": "ABOUT US",
+      "title": "Four Years of Achievements",
+      "boxes": [
+        {
+          "count": 500,
+          "description": "Engineers & Experts",
+          "cta": "See More",
+          "link": "/AboutUs"
+        },
+        {
+          "count": 125,
+          "description": "Projects",
+          "cta": "See More",
+          "link": "/Portfolio"
+        },
+        {
+          "count": 75,
+          "description": "Clients",
+          "cta": "See More",
+          "link": "/AboutUs"
+        },
+        {
+          "count": 15,
+          "description": "Countries",
+          "cta": "See More",
+          "link": "/AboutUs"
+        },
+        {
+          "count": 2,
+          "description": "New Products",
+          "cta": "See More",
+          "link": "/Products"
+        }
+      ]
+    }
+    ,
+    "fr": {
+      "aboutUs": "À PROPOS DE NOUS",
+      "title": "Quatre ans de réalisations",
+      "boxes": [
+        {
+          "count": 500,
+          "description": "Ingénieurs et Experts",
+          "cta": "Voir Plus",
+          "link": "/AboutUs"
+        },
+        {
+          "count": 125,
+          "description": "Projets",
+          "cta": "Voir Plus",
+          "link": "/Portfolio"
+        },
+        {
+          "count": 75,
+          "description": "Clients",
+          "cta": "Voir Plus",
+          "link": "/AboutUs"
+        },
+        {
+          "count": 15,
+          "description": "Pays",
+          "cta": "Voir Plus",
+          "link": "/AboutUs"
+        },
+        {
+          "count": 2,
+          "description": "Nouveaux Produits",
+          "cta": "Voir Plus",
+          "link": "/Products"
+        }
+      ]
+    }
+    
+  }
+  

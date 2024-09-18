@@ -1,0 +1,18 @@
+{
+  "en": {
+    "whyChooseUs": {
+      "sectionTitle": "WHY CHOOSE US",
+      "heading": "Empower Businesses With Innovative Digital Solutions.",
+      "description": "We are committed to helping business owners leverage digital technology and solutions, increase their digital footprint, harness the benefits of digital presence, and gain a cutting edge ahead of their competitors.",
+      "button": "Details"
+    }
+  },
+  "fr": {
+    "whyChooseUs": {
+      "sectionTitle": "POURQUOI NOUS CHOISIR",
+      "heading": "Autonomiser les entreprises avec des solutions numériques innovantes.",
+      "description": "Nous nous engageons à aider les propriétaires d'entreprises à tirer parti des technologies et solutions numériques, à augmenter leur empreinte numérique, à exploiter les avantages de la présence numérique et à obtenir un avantage concurrentiel.",
+      "button": "Détails"
+    }
+  }    
+}

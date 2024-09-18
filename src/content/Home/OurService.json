@@ -1,0 +1,34 @@
+{
+    "en": {
+      "heading": "What we do",
+      "softwareEngineering": {
+        "title1": "Software",
+        "title2": "Engineering",
+        "description": "Dedicated to building robust, scalable, and high-performance digital solutions.",
+        "link": "Details"
+      },
+      "digitalMarketing": {
+        "title1": "Digital Marketing",
+        "title2": "and Branding",
+        "description": "Propel your business forward in the online landscape.",
+        "link": "Details"
+      }
+    }
+    ,
+    "fr": {
+      "heading": "Ce que nous faisons",
+      "softwareEngineering": {
+        "title1": "Ingénierie ",
+        "title2": "Logicielle",
+        "description": "Dédié à la construction de solutions numériques robustes, évolutives et performantes.",
+        "link": "Détails"
+      },
+      "digitalMarketing": {
+        "title1": "Marketing Digital et Branding",
+        "title2": "et Branding",
+        "description": "Propulsez votre entreprise dans le paysage en ligne.",
+        "link": "Détails"
+      }
+    }
+  }
+  
