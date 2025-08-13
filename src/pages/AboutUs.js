@@ -24,6 +24,7 @@ import OurMissionTopImage from "../assets/OurMissionTopImage.png";
 import OurMissionSideImage from "../assets/OurMissionSideImage.png";
 import OurTeamCarousel from "../components/OurTeamCarousel";
 import RodrigueFouafouHeadshot from "../assets/RodrigueFouafouHeadshot.png";
+import BoSimangoHeadshot from "../assets/BoSimangoHeadshot.jpg"
 import RosalinRimjhimHeadshot from "../assets/RosalinRimjhimHeadshot.png";
 import StriveMazungaHeadshot from "../assets/StriveMazungaHeadshot.png";
 import ReginaldNugentHeadshot from "../assets/ReginaldNugentHeadshot.png";
@@ -74,42 +75,58 @@ function AboutUs() {
       image: RodrigueFouafouHeadshot,
       title: "Rodrigue Fouafou",
       subtitle: "CEO",
+      bio: "Welcome to the future of digital innovation at Wouessi Inc. Our mission is simple: to empower businesses globally through groundbreaking digital experiences.",
+      linkedin: "https://www.linkedin.com/in/rodriguefouafou/"
     },
     {
-      image: RosalinRimjhimHeadshot,
-      title: "Rimjhim Rosalin",
+      image: BoSimangoHeadshot,
+      title: "Bo Simango",
       subtitle: "COO",
+      bio: "Welcome to the future of digital innovation at Wouessi Inc. Our mission is simple: to empower businesses globally through groundbreaking digital experiences.",
+      linkedin: "https://www.linkedin.com/in/bsimango/"
     },
-    {
-      image: StriveMazungaHeadshot,
-      title: "Strive Mazunga",
-      subtitle: "CTO",
-    },
-    {
-      image: ReginaldNugentHeadshot,
-      title: "Reginald Nugent",
-      subtitle: "CFO",
-    },
-    {
-      image: NelsonNwankwoHeadshot,
-      title: "Nelson Nwankwo",
-      subtitle: "Director of Digital services",
-    },
-    {
-      image: MarieNsanaHeadshot,
-      title: "Marie Noel Nsana",
-      subtitle: "Advisor",
-    },
-    {
-      image: PamelaDefoHeadshot,
-      title: "Pamela Moko Defo",
-      subtitle: "Advisor",
-    },
-    {
-      image: BillTinglingHeadshot,
-      title: "Bill Tingling",
-      subtitle: "Advisor",
-    },
+    // {
+    //   image: StriveMazungaHeadshot,
+    //   title: "Strive Mazunga",
+    //   subtitle: "CTO",
+    //   bio: "Technology innovator with expertise in cutting-edge digital solutions and emerging technologies. Strive leads our technical vision, ensuring we stay at the forefront of technological advancement while maintaining the highest standards of code quality and system architecture.",
+    //   linkedin: "#"
+    // },
+    // {
+    //   image: ReginaldNugentHeadshot,
+    //   title: "Reginald Nugent",
+    //   subtitle: "CFO",
+    //   bio: "Financial strategist with deep expertise in scaling technology companies and managing global operations. Reginald ensures sustainable growth through strategic financial planning, risk management, and investment optimization for our worldwide expansion initiatives.",
+    //   linkedin: "#"
+    // },
+    // {
+    //   image: NelsonNwankwoHeadshot,
+    //   title: "Nelson Nwankwo",
+    //   subtitle: "Director of Digital Services",
+    //   bio: "Digital services expert focused on delivering exceptional client experiences and innovative solutions. Nelson oversees our comprehensive digital service portfolio, ensuring quality delivery, client satisfaction, and continuous innovation in every project engagement.",
+    //   linkedin: "#"
+    // },
+    // {
+    //   image: MarieNsanaHeadshot,
+    //   title: "Marie Noel Nsana",
+    //   subtitle: "Advisor",
+    //   bio: "Strategic advisor with extensive experience in business development, market expansion, and organizational growth. Marie provides valuable insights for company strategy, helping navigate complex market dynamics and identifying new growth opportunities globally.",
+    //   linkedin: "#"
+    // },
+    // {
+    //   image: PamelaDefoHeadshot,
+    //   title: "Pamela Moko Defo",
+    //   subtitle: "Advisor",
+    //   bio: "Business development advisor with expertise in strategic partnerships, client relations, and market penetration. Pamela helps drive growth initiatives, expand our market presence across different regions, and build lasting relationships with key stakeholders.",
+    //   linkedin: "#"
+    // },
+    // {
+    //   image: BillTinglingHeadshot,
+    //   title: "Bill Tingling",
+    //   subtitle: "Advisor",
+    //   bio: "Technology and business strategy advisor with decades of experience in scaling digital companies and fostering innovation. Bill provides strategic guidance for sustainable growth, technological advancement, and maintaining competitive advantage in the digital marketplace.",
+    //   linkedin: "#"
+    // }
   ];
 
   const logos = [
@@ -233,9 +250,9 @@ function AboutUs() {
                   Amazing Work Culture
                 </h1>
                 <p className="text-[1.1vw] mt-[1.5vw]">
-                  I’ve been provided with the opportunity to expand my skillset
+                  I've been provided with the opportunity to expand my skillset
                   through the endless support, and choice in varying projects.
-                  I’ve had a great experience so far and am excited to see where
+                  I've had a great experience so far and am excited to see where
                   this company goes in the future.
                 </p>
                 <h2 className="text-[1.8vw] font-bold text-[#0A0907] mt-[1vw]">
