@@ -1,8 +1,10 @@
----
 deployment:
   tasks:
     - export DEPLOYPATH=/home3/wouessic/public_html
     - /bin/rm -rf $DEPLOYPATH/*
-    - npm install
+    - npm ci 
     - npm run build
-    - /bin/cp -R build/* $DEPLOYPATH
+    - test -d build || (echo "Build failed - no build directory" && exit 1)
+    - /bin/cp -R build/* $DEPLOYPATH/
+    - echo "Deployment complete. Files in public_html:"
+    - ls -la $DEPLOYPATH/
