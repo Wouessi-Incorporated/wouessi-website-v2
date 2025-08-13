@@ -24,6 +24,7 @@ import OurMissionTopImage from "../assets/OurMissionTopImage.png";
 import OurMissionSideImage from "../assets/OurMissionSideImage.png";
 import OurTeamCarousel from "../components/OurTeamCarousel";
 import RodrigueFouafouHeadshot from "../assets/RodrigueFouafouHeadshot.png";
+import BoSimangoHeadshot from "../assets/BoSimangoHeadshot.jpg"
 import RosalinRimjhimHeadshot from "../assets/RosalinRimjhimHeadshot.png";
 import StriveMazungaHeadshot from "../assets/StriveMazungaHeadshot.png";
 import ReginaldNugentHeadshot from "../assets/ReginaldNugentHeadshot.png";
@@ -76,40 +77,40 @@ function AboutUs() {
       subtitle: "CEO",
     },
     {
-      image: RosalinRimjhimHeadshot,
-      title: "Rimjhim Rosalin",
+      image: BoSimangoHeadshot,
+      title: "Bo Simango",
       subtitle: "COO",
     },
-    {
-      image: StriveMazungaHeadshot,
-      title: "Strive Mazunga",
-      subtitle: "CTO",
-    },
-    {
-      image: ReginaldNugentHeadshot,
-      title: "Reginald Nugent",
-      subtitle: "CFO",
-    },
-    {
-      image: NelsonNwankwoHeadshot,
-      title: "Nelson Nwankwo",
-      subtitle: "Director of Digital services",
-    },
-    {
-      image: MarieNsanaHeadshot,
-      title: "Marie Noel Nsana",
-      subtitle: "Advisor",
-    },
-    {
-      image: PamelaDefoHeadshot,
-      title: "Pamela Moko Defo",
-      subtitle: "Advisor",
-    },
-    {
-      image: BillTinglingHeadshot,
-      title: "Bill Tingling",
-      subtitle: "Advisor",
-    },
+    // {
+    //   image: StriveMazungaHeadshot,
+    //   title: "Strive Mazunga",
+    //   subtitle: "CTO",
+    // },
+    // {
+    //   image: ReginaldNugentHeadshot,
+    //   title: "Reginald Nugent",
+    //   subtitle: "CFO",
+    // },
+    // {
+    //   image: NelsonNwankwoHeadshot,
+    //   title: "Nelson Nwankwo",
+    //   subtitle: "Director of Digital services",
+    // },
+    // {
+    //   image: MarieNsanaHeadshot,
+    //   title: "Marie Noel Nsana",
+    //   subtitle: "Advisor",
+    // },
+    // {
+    //   image: PamelaDefoHeadshot,
+    //   title: "Pamela Moko Defo",
+    //   subtitle: "Advisor",
+    // },
+    // {
+    //   image: BillTinglingHeadshot,
+    //   title: "Bill Tingling",
+    //   subtitle: "Advisor",
+    // },
   ];
 
   const logos = [
