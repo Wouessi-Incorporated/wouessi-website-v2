@@ -125,19 +125,7 @@ const OurTeamCarousel = ({ cards = [] }) => {
                         {card.subtitle}
                       </p>
                       
-                      {/* LinkedIn Icon */}
-                      {/* {card.linkedin && (
-                        <div className="mt-4">
-                          <a 
-                            href={card.linkedin}
-                            className="inline-flex items-center justify-center w-10 h-10 text-white transition-colors duration-200 bg-blue-600 rounded-lg hover:bg-blue-700"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            <Linkedin className="w-5 h-5" />
-                          </a>
-                        </div>
-                      )} */}
+                    
                     </div>
                   </div>
                 </div>
@@ -145,7 +133,7 @@ const OurTeamCarousel = ({ cards = [] }) => {
             </div>
           </div>
 
-          {/* Next Button */}
+  
           <button
             onClick={goToNext}
             className="absolute right-0 z-10 flex items-center justify-center w-12 h-12 transition-all duration-200 bg-white rounded-full shadow-lg hover:shadow-xl hover:bg-gray-50 group"
