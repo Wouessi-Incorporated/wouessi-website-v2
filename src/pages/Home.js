@@ -319,13 +319,22 @@ function Home() {
         </div>
       </div>
 
-      <OurClients
-        Logo1={ARQCH}
-        Logo2={Precision}
-        Logo3={Aldelia}
-        Logo4={Charis}
-        Logo5={KigaliRunningClub}
-      />
+      <section>
+        <div className="flex justify-center mb-[2vw]">
+          <div className="w-[80%]">
+            <h1 className="text-[3vw] text-left font-bold max-[450px]:text-[7vw]">
+              Our Clients
+            </h1>
+          </div>
+        </div>
+        <OurClients
+          Logo1={ARQCH}
+          Logo2={Precision}
+          Logo3={Aldelia}
+          Logo4={Charis}
+          Logo5={KigaliRunningClub}
+        />
+      </section>
 
       <div className="bg-[#2B00AC] mt-[2vw]">
         <div className="flex justify-center bg-[#2B00AC] max-[450px]:mb-[10vw]">
