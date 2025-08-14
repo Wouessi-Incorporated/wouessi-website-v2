@@ -1,6 +1,7 @@
 {
   "name": "frontend-react-wouessi-website-v2",
   "version": "0.1.0",
+  "homepage": "/frontend-react-wouessi-website-v2/",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.10.8",
