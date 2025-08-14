@@ -89,7 +89,7 @@ function App() {
                   className="w-full h-full space-y-[10vw] bg-[#F4F4F4] pb-[25vw]"
                   variants={containerVariants}>
                   <motion.div variants={itemVariants}>
-                    <Link to="frontend-react-wouessi-website-v2/ContactUs">
+                    <Link to="/ContactUs">
                       <div className="w-full flex justify-center">
                         <div
                           onClick={() => updateNavMenu(false)}
@@ -103,23 +103,23 @@ function App() {
                   {[
                     {
                       name: "Home",
-                      route: "frontend-react-wouessi-website-v2/",
+                      route: "/",
                     },
                     {
                       name: "About",
-                      route: "frontend-react-wouessi-website-v2/AboutUs",
+                      route: "/AboutUs",
                     },
                     {
                       name: "Services",
-                      route: "frontend-react-wouessi-website-v2/Services",
+                      route: "/Services",
                     },
                     {
                       name: "Products",
-                      route: "frontend-react-wouessi-website-v2/Products",
+                      route: "/Products",
                     },
                     {
                       name: "Portfolio",
-                      route: "frontend-react-wouessi-website-v2/Portfolio",
+                      route: "/Portfolio",
                     },
                   ].map((text, index) => (
                     <div
@@ -180,47 +180,47 @@ function App() {
           <div className={navMenu && "hidden"}>
             <Routes>
               <Route
-                path="frontend-react-wouessi-website-v2/"
+                path="/"
                 element={<Home />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/AboutUs"
+                path="/AboutUs"
                 element={<AboutUs />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/Services"
+                path="/Services"
                 element={<Services />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/Products"
+                path="/Products"
                 element={<Products />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/Portfolio"
+                path="/Portfolio"
                 element={<Portfolio />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/ContactUs"
+                path="/ContactUs"
                 element={<ContactUs />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/Careers"
+                path="/Careers"
                 element={<Careers />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/Blog"
+                path="/Blog"
                 element={<Blog />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/Blogpost"
+                path="/Blogpost"
                 element={<BlogPost />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/TermsCondition"
+                path="/TermsCondition"
                 element={<TermsCondition />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/PrivacyPolicy"
+                path="/PrivacyPolicy"
                 element={<PrivacyPolicy />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/CookiePolicy"
+                path="/CookiePolicy"
                 element={<CookiePolicy />}></Route>
               <Route
-                path="frontend-react-wouessi-website-v2/CopyrightPolicy"
+                path="/CopyrightPolicy"
                 element={<CopyrightPolicy />}></Route>
               <Route path="*" element={<ErrorPage />} />
               <Route
-                path="frontend-react-wouessi-website-v2/BlogPost"
+                path="/BlogPost"
                 element={<BlogPost />}></Route>
             </Routes>
             <Footer />

@@ -1,7 +1,6 @@
 {
   "name": "frontend-react-wouessi-website-v2",
   "version": "0.1.0",
-  "homepage": "/frontend-react-wouessi-website-v2/",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.10.8",
@@ -22,8 +21,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -49,7 +46,6 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.4"
   }
 }
